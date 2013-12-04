@@ -1,3 +1,3 @@
 # Première appli test de Rails
 
-Première appli [*ENSBAL - Base test*](http://www.ensba-lyon.fr/) de [domlegal].
+Première appli [*ENSBAL - Base test*](http://www.ensba-lyon.fr/) de [domlegal](mailto:dominique.legal@ensba-lyon.fr).
